@@ -29,3 +29,19 @@ The article covers:
 - 🔍 Ideal for developers building safety-critical automotive, industrial, or medical systems
 
 Whether you're evaluating QNX for your next project or seeking insights into secure virtualization, this guide is a must-read.
+
+## ⚛️ Pure Components in ReactJS — A 2025 Performance Optimization Guide
+
+Dive into the performance side of React with this in-depth article:  
+👉 [Pure Components in ReactJS: 2025 Performance Guide](https://www.patangrid.site/2025/05/pure-components-reactjs-performance-guide.html)
+
+This guide explores:
+
+- ⚙️ What Pure Components are and how they work under the hood  
+- 🧠 The difference between `React.Component` and `React.PureComponent`  
+- 🚀 Real-world performance use cases and when to use Pure Components  
+- 🛠️ Memoization, re-renders, and best practices for high-performance React apps
+
+Perfect for intermediate to advanced React developers aiming to boost app efficiency and reduce unnecessary renders.
+
+Read, apply, and optimize your components the smart way!
